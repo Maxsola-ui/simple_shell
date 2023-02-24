@@ -1,4 +1,5 @@
 ALX Simple Shell Team Project
+
 This is an ALX collaboration project on Shell. Our shell shall be called hsh
 
 Project was completed using
